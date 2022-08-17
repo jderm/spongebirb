@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/spongebirb/static/css/main.7d5d4f89.css",
-    "main.js": "/spongebirb/static/js/main.5ea9ec5d.js",
+    "main.css": "/spongebirb/static/css/main.3448edba.css",
+    "main.js": "/spongebirb/static/js/main.6754d2d2.js",
     "static/js/787.85f31218.chunk.js": "/spongebirb/static/js/787.85f31218.chunk.js",
     "static/media/logo.svg": "/spongebirb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/spongebirb/index.html",
-    "main.7d5d4f89.css.map": "/spongebirb/static/css/main.7d5d4f89.css.map",
-    "main.5ea9ec5d.js.map": "/spongebirb/static/js/main.5ea9ec5d.js.map",
+    "main.3448edba.css.map": "/spongebirb/static/css/main.3448edba.css.map",
+    "main.6754d2d2.js.map": "/spongebirb/static/js/main.6754d2d2.js.map",
     "787.85f31218.chunk.js.map": "/spongebirb/static/js/787.85f31218.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d5d4f89.css",
-    "static/js/main.5ea9ec5d.js"
+    "static/css/main.3448edba.css",
+    "static/js/main.6754d2d2.js"
   ]
 }
